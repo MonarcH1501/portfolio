@@ -7,7 +7,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   role: "Web Engineer",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/projects/project-01/profilimg.jpg",
   email: "stevenedmund18@gmail.com",
   location: "Asia/Pontianak", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
@@ -51,7 +51,7 @@ const social = [
 
 const home = {
   path: "/",
-  image: "/images/og/home.jpg",
+  image: "/images/project/project-01/webticketing2.jpg",
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
@@ -117,7 +117,7 @@ const about = {
         images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: "/images/projects/project-01/cover-01.jpg",
+            src: "/images/projects/project-01/webticketing1.jpg",
             alt: "Once UI Project",
             width: 16,
             height: 9,
