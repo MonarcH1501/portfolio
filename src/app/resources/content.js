@@ -58,8 +58,8 @@ const home = {
   headline: <>Passionate in Backend And Mobile Developer</>,
   featured: {
     display: true,
-    title: <>Recent project: <strong className="ml-4">Once UI</strong></>,
-    href: "/work/building-once-ui-a-customizable-design-system",
+    title: <>Recent project: <strong className="ml-4">Ticketing System</strong></>,
+    href: "/work/Ticketing-System-Laravel-React",
   },
   subline: (
     <>
