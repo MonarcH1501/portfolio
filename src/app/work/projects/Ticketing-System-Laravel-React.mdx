@@ -3,42 +3,50 @@ title: "Internal System Ticketing System "
 publishedAt: "2025-05-01"
 summary: "Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think."
 images:
+  - "/images/projects/project-01/webticketing3.jpg"
   - "/images/projects/project-01/webticketing1.jpg"
-  - "/images/projects/project-01/webticketing2.jpg"
+  - "/images/projects/project-01/webticketing4.jpg"
+  - "/images/projects/project-01/webticketing5.jpg"
 team:
   - name: "Steven Edmund Pratama"
     role: "Software Engineer"
     avatar: "/images/projects/project-01/profilimg.jpg"
     linkedIn: "www.linkedin.com/in/steven-edmund-pratama-83a339225"
-link: "https://once-ui.com/"
 ---
 
 ## Overview
 
-In this project, I focused on automating the often tedious design handover process. The goal was to create a pipeline that converts Figma designs directly into clean, production-ready code. By integrating design tokens, component libraries, and automated workflows, this solution significantly reduced the time spent on translating design assets into code, while maintaining design consistency across the product.
+In this project, I focused on developing an internal ticketing system to streamline task submissions, 
+approvals, and execution within an organization. The main goal was to reduce communication gaps, 
+improve accountability, and create a transparent workflow where every request can be tracked from start 
+to finish. By implementing role-based access control, structured ticket handling, 
+and automated notifications, the system ensures that the right people are always informed 
+and responsible at the right stage.
+
 
 ## Key Features
 
-- **Figma Plugin Integration**: Developed a custom Figma plugin that extracts design tokens such as colors, typography, and spacing values, and exports them in a format compatible with our codebase.
-- **Code Generation**: Integrated an automated process that translates Figma components into React code using a combination of design tokens and pre-built component templates. This allowed developers to focus more on logic and less on repetitive UI coding.
-- **Continuous Sync**: Established a CI/CD pipeline that continuously synchronizes design changes from Figma to the codebase, ensuring design updates are reflected instantly without manual intervention.
-- **Scalable Design System**: Leveraged a design system that remains the single source of truth for both designers and developers, making it easy to maintain consistency even as the product evolves.
+- **Role-Based Access Control (RBAC)**: Implemented multiple roles including Admin, Coordinator, KD (decision maker), 
+PIC (executor), and Users, each with tailored permissions to maintain accountability and security.
+
+- **Ticket Management**:Enabled users to submit tickets with details and attachments, while coordinators and KDs can review, approve, assign, or reject tickets as needed.
+
+- **File Handling**: Supported multiple file uploads, secure storage, and the ability to preview or delete individual attachments while keeping the database in sync.
+
+- **Scalable Design System**: Developed a React + Ant Design interface featuring clean card layouts, vertical file lists, and intuitive ticket timelines for tracking progress.
+
+- **UI & Usability Improvements**: Developed a React + Ant Design interface featuring clean card layouts, vertical file lists, and intuitive ticket timelines for tracking progress.
+
+
+
 
 ## Technologies Used
 
-- **Figma API**: For extracting design tokens and component data directly from the Figma designs.
-- **React and Next.js**: For building the front-end codebase with clean, reusable components.
-- **Styled-Components**: For managing styles dynamically using design tokens.
-- **GitHub Actions**: For automating the pipeline and syncing design changes to the repository.
+- **Laravel 10**: For backend API, authentication, and file storage handling.
+- **React js**: For building the front-end codebase with clean, reusable components.
+- **MySQL**: For structured ticket, role, and history data storage.
 
-## Challenges and Learnings
+- **GitHub Actions**: For automating the pipeline and syncing design changes to the repository also version controll  .
 
-One of the biggest challenges was ensuring that the generated code was clean and maintainable. This involved setting up intelligent mapping between Figma components and React code structures, as well as managing edge cases like responsive design and conditional rendering. Additionally, the continuous synchronization required a robust error-handling system to prevent conflicts during development.
 
-## Outcome
-
-The automated Figma to code pipeline has streamlined the handoff process, cutting down design-to-development time by 40%. Designers now have more confidence that their designs will be accurately translated into code, and developers can focus on more complex logic and feature development. This project has proven the value of automation in bridging the gap between design and development.
-
----
-
-This project demonstrates your ability to leverage automation and streamline workflows, which is highly relevant for design engineering portfolios focused on efficiency and innovation.
+One of the main challenges was ensuring proper synchronization between uploaded files, database records, and storage management. This required careful handling of file deletion logic and error states. Another complexity was designing the approval workflow so that it remained strict enough for accountability
