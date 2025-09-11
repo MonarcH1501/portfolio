@@ -217,6 +217,25 @@ const about = {
           },
         ],
       },
+      {
+        title: "Web Development",
+        description: <>Building Responsive and dynamic web using php and javascript framework</>,
+        // optional: leave the array empty if you don't want to display images
+        images: [
+          {
+            src: "/images/projects/project-01/pos-admin.png",
+            alt: "Project image",
+            width: 16,
+            height: 9,
+          },
+          {
+            src: "/images/projects/project-01/pos-kasir.png",
+            alt: "Project image",
+            width: 16,
+            height: 9,
+          },
+        ],
+      },
     ],
   },
 };
